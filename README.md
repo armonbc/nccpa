@@ -28,4 +28,5 @@
    :warning: All 200k+ data has been retrieved from first party source using automation and is not shared here.
 # DOWNLOAD
 - [Download CSV](https://github.com/armonbc/nccpa/raw/main/200k%2Bnccpa-submission.zip)
-You can download the file by clicking "**Download CSV**" above. This is a compressed file & you can decompress it using any zip tool.
+
+You can download the file by clicking "**Download CSV**" above. This is a compressed CSV file & you can decompress it using any zip tool.
