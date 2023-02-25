@@ -15,13 +15,13 @@
 
 - ***Scrape Time***
   
-  :watch: Date Scrape: Feb 24, 2023 (GMT+8)
+  :spiral_calendar: Date Scrape: Feb 24, 2023 (GMT+8)
   
   :clock6: Duration: 6 hours
 
 - ***Purpose***
 
-  :page_with_curl: This file contains only 39,999 unfiltered data for proof of concept purpose. Meanwhile, the "**Name**" column remain the same and is not modified and this makes the rows more than 200k in total.
+  :page_with_curl: This file contains only 39,999 unfiltered data for proof of concept purpose. Meanwhile, the "**Name**" column remains the same (unmodified) and this makes the rows equal to more than 200k in total.
 
 - ***Disclaimer***
     
