@@ -21,7 +21,7 @@
 
 - ***Purpose***
 
-  :page_with_curl: This file contains only 39,999 unfiltered data for proof of concept purpose. Meanwhile, the "**Name**" column remains the same (unmodified) and this makes the rows equal to more than 200k in total.
+  :page_with_curl: This file contains only 39,999 unfiltered data for proof of concept purpose and analysis. Meanwhile, the "**Name**" column remains the same (unmodified) and this makes the rows equal to more than 200k in total.
 
 - ***Disclaimer***
     
@@ -29,4 +29,4 @@
 # DOWNLOAD
 - [Download CSV](https://github.com/armonbc/nccpa/raw/main/200k%2Bnccpa-submission.zip)
 
-You can download the file by clicking "**Download CSV**" above. This is a compressed CSV file & you can decompress it using any zip tool.
+You can download the file for FREE by clicking "**Download CSV**" above. This is a compressed CSV file & you can decompress it using any zip tool.
